@@ -1,4 +1,4 @@
-# chinese
+# Chinese Etymology
 
 
 *CHINESE CHARACTERS - Their origin, etymology, history, classification and signification* by Dr. L. Wieger, S.J. was first published in 1899 (French) and 1915 (English). It has eversince been republished. It does not include the 20th century discoveries and therefore is technically wrong in many respects. However, based on the 2nd century *Shuowen Jiezi*, it reflects the Chinese tradition and culture. It is what many Chinese know about their writing.
